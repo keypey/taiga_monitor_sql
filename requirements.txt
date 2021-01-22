@@ -1,0 +1,4 @@
+python-taiga
+nexmo
+urllib3
+requests
